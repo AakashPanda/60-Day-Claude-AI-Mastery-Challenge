@@ -39,3 +39,5 @@ Section 3: Detailed Image Generation Prompt
 - Prompt quality affects output quality.
 - Structured prompts give more accurate and detailed results.
 - Better prompting improves image and explanation design.
+
+## The images generated from both prompts have been added to the Day2 folder for comparison.
